@@ -1,0 +1,9 @@
+.colo{
+ background-color:blueviolet;
+ height: 100vh;
+}
+.bor{
+    border: none;
+    border-radius: 15px;
+    padding: 15px;
+}

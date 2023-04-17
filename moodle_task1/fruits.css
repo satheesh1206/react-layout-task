@@ -1,0 +1,14 @@
+.col2{
+    background-color: green;
+   margin-top: 100px;
+   width: 950;
+   min-height: 80vh;
+   border-radius: 30px;
+
+}
+.bt{
+    border-radius: 10px;
+}
+.sp{
+    color:bisque;
+}

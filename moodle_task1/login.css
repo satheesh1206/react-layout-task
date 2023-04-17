@@ -1,0 +1,34 @@
+/* .input{
+    border-radius: 50px;
+    outline: none;
+    
+    background-color: antiquewhite;
+} */
+.cen{
+    display: grid;
+    place-items: center;
+}
+.spn{
+    color: green;
+}
+.broderstyle1{
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 10px;
+}
+.broderstyle{
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 10px;
+    width: 180px;
+    background-color: green;
+}
+.bnone{
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+.color{
+    background-color: blueviolet;
+    height:100vh;
+}
